@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/FormViewAsDetail/Default.aspx) (VB: [Default.aspx.vb](./VB/FormViewAsDetail/Default.aspx.vb))
+* [Default.aspx.cs](./CS/FormViewAsDetail/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/FormViewAsDetail/Default.aspx.vb))
+<!-- default file list end -->
 # How to use the FormView component to display details of a master-detail ASPxGridView
 
 
